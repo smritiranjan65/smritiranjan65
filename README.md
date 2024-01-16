@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Smriti Ranjan</h1>
+<h1 align="center">Hi 👋, Smriti ranjan here</h1>
 <h3 align="center">passionate full-stack developer, let's connect.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smritiranjan65&label=Profile%20views&color=0e75b6&style=flat" alt="smritiranjan65" /> </p>
