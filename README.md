@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smritiranjan65" alt="smritiranjan65" /></a> </p>
 
-- 🔭 I’m currently working on **Aryabhatta Knowledge University's Patna websites**
+- 🔭 I’m currently working on **Aryabhatta Knowledge University Patna websites**
 
 - 📫 How to reach me **smritiranjan65@gmail.com**
 
